@@ -1,5 +1,6 @@
 ### Hello there! 👋
 
+### About me
 - 🔭 I’m currently working on my Master's thesis: Formalization of Deep Learning techniques with the Why3 proof platform
 - 🌱 I’m currently learning Machine Learning and Go (Rust shall follow)
 - ⚡ Interested in Machine Learning, Formal methods, Philosophy, Physics, just to name a few, and always interested in learning more!
