@@ -9,7 +9,7 @@
 - ⚡ Interested in Machine Learning, Formal methods, Philosophy, Physics, just to name a few, and always interested in learning more!
 
 ---
-![dunnadan's github stats](https://github-readme-stats.vercel.app/api?username=dunnadan&count_private=true&show_icons=true)
+![dunnadan's github stats](https://github-readme-stats.vercel.app/api?username=dunnadan&count_private=true&show_icons=true&theme=blue-green)
 
 
 
