@@ -1,11 +1,8 @@
 ### Hello there! 👋
 
 ### About me
-- 🔭 I’m currently working on my Master's thesis: Formalization of Deep Learning techniques with the Why3 proof platform
-- 🌱 I’m currently learning:
-  + Machine Learning (main focus at the moment); 
-  + Web Development (on my free time);
-  + Game development (using Godot, on my free time as well).
+- 🔭 I’m currently working on my Master's dissertation: Formalization of Deep Learning techniques with the Why3 proof platform
+- 🌱 I’m currently learning about Neural Networks and the ins and outs of formally verifying them, as it is the focus of my dissertation.
 - ⚡ Interested in Machine Learning, Formal methods, Philosophy, Physics, just to name a few, and always interested in learning more!
 
 ---
